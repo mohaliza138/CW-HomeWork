@@ -1,0 +1,3 @@
+C:/University/CW/CW-HW5/cmake-build-debug/CMakeFiles/CW_HW5.dir
+C:/University/CW/CW-HW5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/University/CW/CW-HW5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
